@@ -1,1 +1,30 @@
 body{background-color: black;}
+
+label{
+	color: orange;
+	z-index: 2;
+}
+footer{
+	text-align: center;
+	z-index: 2;
+	width:796px;
+	color:orange;
+	font-family: sans-serif;
+	font-style: italic;
+	
+	
+
+
+}
+img{
+	
+	width: 796px;
+	margin:0 0 0 0;
+	padding:20px;
+}
+form{
+	width: 796px;
+	text-align: center;
+	background-image: url("sfg.jpg");
+
+}
